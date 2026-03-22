@@ -1,6 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+h1{
+    filter: drop-shadow(0 0 1rem rgb(14, 15, 14));
 }
 
 body{
@@ -31,7 +35,7 @@ body{
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem black;
+    box-shadow: 0 0 1rem rgb(14, 15, 14);
     font-size: 8vmin;
     color: #b0413e;
      background-color: #ffffc7; 
